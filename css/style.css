@@ -1,0 +1,42 @@
+
+body {
+    background: linear-gradient(to right, #89f7fe, #f881a5);
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+
+h1 {
+  color: #ff7300;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+a {
+  color: #ff5500;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ff8800;
+}
+
+.coolkidsonly {
+  color: hotpink;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.coolkidsonly:hover{
+    color: gold;
+}
